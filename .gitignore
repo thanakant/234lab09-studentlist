@@ -30,3 +30,5 @@ link-checker-results.txt
 **/e2e/**/*.js.map
 _test-output
 _temp
+
+se234.pem
